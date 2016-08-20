@@ -1,6 +1,13 @@
 /* ****************************************************************************
  * Library created for controlling LPD8806-based LED strips, with a number of *
  * functions for generating different colors.                                 *
+ *                                                                            *
+ * Copyright (C) Adafruit Industries                                          *
+ * MIT License                                                                *
+ *                                                                            *
+ * Copyright (C) Dave Dorzback                                                *
+ * MIT License                                                                *
+ *                                                                            *
 /******************************************************************************/
 
 #include "SPI.h"
